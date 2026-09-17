@@ -50,7 +50,7 @@ export default function HeroSection() {
       <FadeIn delay={0.6} y={30}>
         <div className="absolute right-8 top-1/2 -translate-y-1/2 hidden lg:block opacity-60 pointer-events-none">
           <img
-            src="/images/marquee/1.png"
+            src="images/marquee/1.png"
             alt="hero"
             className="w-48 h-auto rounded-2xl object-cover"
             style={{ filter: 'grayscale(30%)' }}
